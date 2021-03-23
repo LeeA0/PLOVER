@@ -27,7 +27,7 @@
 
 ## Team Communication Rule ✨
 
-- 🧷 [PLOVER Business Rules 바로가기](https://lab.ssafy.com/s04-webmobile2-sub3/s04p13b104/wikis/PLOVER-Business-Rules)
+- 🧷 [PLOVER Business Rules 바로가기](https://github.com/LeeA0/PLOVER/wiki/PLOVER-Business-Rules)
 
 
 
@@ -340,7 +340,7 @@
 | 보완작업 ⚓<br />&<br />TEST👾<br />발표,UCC준비🦾 | - 기능 테스트 <br />- README.md 파일 최종 수정<br />- 발표준비, 발표자료 준비<br />- UCC 제작 진행 | - 반응형 CSS 작업 진행<br />- 멘토링 목록 페이지 개발<br />- 메인페이지 수정 및 보완<br />- 채팅 페이지 개발<br />- 페이지 관련 수정사항 진행<br />- 최종 디자인 작업 마무리 | - 댓글 관련 REST API 개발<br /><br />- 기본기능 REST API 보완작업<br /><br />- 핵심기능 REST API 보완작업<br />- 배포 서버 최종 확인 및 점검 |
 
 
-
+<!--
 ---
 
 ## 📜 PLOVER ProgressStatus
@@ -355,5 +355,5 @@
 | **[문서]** Server 상태 안내 | Server_주소 및 상태 현황 | [PLOVER_Server](https://docs.google.com/spreadsheets/d/1i8d6ZK7ZGBP2UL8G0ucgrxDoQ2_QYunx09zoQ0ItbZw/edit#gid=1619502858) |
 | **[문서]** 회의록           | 회의록 및 문서정리       | [PLOVER_doc](https://yona.plover.co.kr/projects)             |
 
-- 일부 링크는 보안문제로 열람이 불가능 할 수 있습니다. 
-  요청은 (tkddnsos@gmail.com)을 통하여 연락주시면 열람권한 드리겠습니다.
+- 일부 링크는 보안문제로 열람이 불가능 할 수 있습니다.
+-->
